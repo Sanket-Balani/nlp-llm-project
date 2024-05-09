@@ -48,7 +48,7 @@ This allows users to access and analyze database information using natural langu
 ```bash
   GOOGLE_API_KEY="your_api_key_here"
 ```
-4. For database setup, run database/db_creation_t_shirts.sql in your MySQL workbench
+4. For database setup, db_creation_t_shirts.sql in your MySQL workbench
 
 ## Usage
 
