@@ -1,5 +1,6 @@
 
-# Natural Language Processing with LLMs: Talking to a Database  
+# AskSQL
+### Natural Language Processing with LLMs
 
 This project, based on Google Palm and Langchain, creates a system that can understand natural language questions from users and answer them by converting those questions to an SQL query and then executing that query on MySQL database.
 
