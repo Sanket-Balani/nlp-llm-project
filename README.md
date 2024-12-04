@@ -34,7 +34,7 @@ This allows users to access and analyze database information using natural langu
 
 ## Installation
 
-1.Clone this repository to your local machine using:
+1. Clone this repository to your local machine using:
 
 ```bash
   git clone https://github.com/Sanket-Balani/nlp-llm-project.git
@@ -44,7 +44,7 @@ This allows users to access and analyze database information using natural langu
 ```bash
   pip install -r requirements.txt
 ```
-3.Acquire an api key through makersuite.google.com and put it in .env file
+3. Acquire an api key through makersuite.google.com and put it in .env file
 
 ```bash
   GOOGLE_API_KEY="your_api_key_here"
@@ -59,7 +59,7 @@ streamlit run main.py
 
 ```
 
-2.The web app will open in your browser where you can ask questions.
+2. The web app will open in your browser where you can ask questions.
 
 ## Sample Questions
   - How many t shirts are left in total in stock?
